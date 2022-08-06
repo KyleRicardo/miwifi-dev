@@ -24,7 +24,7 @@ import SupportIcon from "./icons/IconSupport.vue";
     <template #heading>Tooling</template>
 
     Including a
-    <a href="ssh">SSH password calculator</a>
+    <RouterLink to="/ssh">SSH password calculator</RouterLink>
     , which calculates the default root password according to the SN number you
     provide.
 
