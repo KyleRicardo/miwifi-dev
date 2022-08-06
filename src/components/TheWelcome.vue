@@ -14,7 +14,7 @@ import SupportIcon from "./icons/IconSupport.vue";
     <template #heading>Guide</template>
 
     Xiaomi Router unlocking/flashing guides and tutorials. Magic Surf related
-    contentsa are included.
+    contents are included.
   </WelcomeItem>
 
   <WelcomeItem>

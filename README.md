@@ -1,6 +1,6 @@
 # miwifi-dev
 
-Xiaomi Router Development Tools & Guides
+Xiaomi Router Developer Guide & Tools
 
 ## Recommended IDE Setup
 
